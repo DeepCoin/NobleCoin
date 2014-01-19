@@ -1,6 +1,22 @@
 NobleCoin (NOBLE) - NobleCoin is a new generation of scrypt coin that is descendant of Litecoin. 
 Like Litecoin it uses scrypt as a proof of work scheme.
 
+- Scrypt-based
+- 60 second block target.
+- Difficulty re-targets every block.
+- Total amount of coins mined will be 15 billion coins.
+- NobleCoin supports transaction messages.
+- Block average payout is 5,000 coins.
+- 50 confirmations are required for minted blocks.
+- 5 confirmations are required for transactions.
+- Transaction time of less than 30 seconds (often less than 10 seconds).
+
+- Open ledger, block explorer & public reserve (pre-mine) addresses
+- Long-term, transparent outlines and goals
+- Dedicated, active developers and community
+
+
+
 
 Development process
 =============================
